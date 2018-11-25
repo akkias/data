@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Mission: Impossible - Fallout",
+      "rating": 2,
+      "poster": "mi.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Searching",
+      "rating": 5,
+      "poster": "searching.jpg"
+    },
+    {
+      "id": 3,
+      "title": "A Star Is Born",
+      "rating": 3,
+      "poster": "star_is_born.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Deadpool 2",
+      "rating": 1,
+      "poster": "dp_2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Avengers: Infinity War ",
+      "rating": 2,
+      "poster": "avengers_iw.jpg"
+    },
+    {
+      "id": 6,
+      "title": "You Were Never Really Here",
+      "rating": 5,
+      "poster": "ywnrh.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Blindspotting",
+      "rating": 4,
+      "poster": "blindspotting.jpg"
+    },
+    {
+      "id": 8,
+      "title": "A Quiet Place",
+      "rating": 1,
+      "poster": "a_quiet_place.jpg"
+    },
+    {
+      "id": 9,
+      "title": "A Prayer Before Dawn",
+      "rating": 4,
+      "poster": "prayer-dawn-poster.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Aquaman",
+      "rating": 2,
+      "poster": "aquaman.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Spider Verse",
+      "rating": 2,
+      "poster": "spider_verse.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Lion King",
+      "rating": 5,
+      "poster": "lion_king.jpg"
+    }
+  ]
+}
